@@ -6,8 +6,7 @@ projectcode
 
 https://github.com/tilagulkiran749-lab/kiranjava1to12/blob/main/2a(1).png
 https://github.com/tilagulkiran749-lab/kiranjava1to12/blob/main/2a(2).png
-https://github.com/tilagulkir
-an749-lab/kiranjava1to12/blob/main/2b.png
+https://github.com/tilagulkiran749-lab/kiranjava1to12/blob/main/2b.png
 https://github.com/tilagulkiran749-lab/kiranjava1to12/blob/main/3a(2).png
 https://github.com/tilagulkiran749-lab/kiranjava1to12/blob/main/3b.png
 https://github.com/tilagulkiran749-lab/kiranjava1to12/blob/main/3c.png
